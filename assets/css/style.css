@@ -3900,30 +3900,30 @@ hero-btn {
 /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 
 .footer-padding {
-    padding-top: 143px;
-    padding-bottom: 80px;
+    padding-top: 35px;
+    padding-bottom: 35px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
     .footer-padding {
-        padding-top: 143px;
-        padding-bottom: 80px;
+        padding-top: 35px;
+        padding-bottom: 35px;
     }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
     .footer-padding {
-        padding-top: 100px;
-        padding-bottom: 50px;
+        padding-top: 35px;
+        padding-bottom: 35px;
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
     /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
     .footer-padding {
-        padding-top: 80px;
+        padding-top: 35px;
         padding-bottom: 0px;
     }
 }
@@ -3931,7 +3931,7 @@ hero-btn {
 @media (max-width: 575px) {
     /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
     .footer-padding {
-        padding-top: 80px;
+        padding-top: 35px;
         padding-bottom: 0px;
     }
 }
@@ -4615,7 +4615,7 @@ hero-btn {
 
 .slider-area {
     margin-top: -1px;
-    background-image: url(../img/hero/h1_hero.jpg);
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0.322), rgb(255, 255, 255)), url(../img/broward-electritian.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -5899,7 +5899,7 @@ hero-btn {
 /* line 29, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 
 .footer-area .footer-top .single-footer-caption .footer-number h4 {
-    color: #ff0000;
+    color: #ffffff;
     font-size: 30px;
     font-weight: 500;
     text-transform: capitalize;
@@ -6046,15 +6046,15 @@ hero-btn {
 /* line 122, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 
 .footer-area .footer-bottom {
-    padding-bottom: 50px;
-    padding-top: 30px;
+    padding-bottom: 0px;
+    padding-top: 0px;
 }
 
 
 /* line 127, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 
 .footer-area .footer-bottom .footer-copy-right p {
-    color: #bdbdbd;
+    color: #092C3F;
     font-weight: 300;
     font-size: 16px;
     line-height: 2;
@@ -6065,14 +6065,14 @@ hero-btn {
 /* line 133, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 
 .footer-area .footer-bottom .footer-copy-right p i {
-    color: #ff0000;
+    color: #092C3F;
 }
 
 
 /* line 136, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 
 .footer-area .footer-bottom .footer-copy-right p a {
-    color: #ff0000;
+    color: #092C3F;
 }
 
 
