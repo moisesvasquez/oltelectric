@@ -4615,7 +4615,7 @@ hero-btn {
 
 .slider-area {
     margin-top: -1px;
-    background-image: linear-gradient(to left, rgba(255, 255, 255, 0.322), rgb(255, 255, 255)), url(../img/broward-electritian.jpg);
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0.13), rgba(255, 255, 255, 0.63)), url(../img/olt-electric-van.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
