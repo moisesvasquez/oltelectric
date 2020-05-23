@@ -17,11 +17,11 @@ $(document).ready(function() {
                         minlength: 2
                     },
                     subject: {
-                        required: true,
+                        required: false,
                         minlength: 4
                     },
                     number: {
-                        required: true,
+                        required: false,
                         minlength: 5
                     },
                     email: {

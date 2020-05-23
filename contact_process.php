@@ -1,6 +1,6 @@
 <?php
 
-    $to = "moises.vasquez@vertilux.com";
+    $to = "iolt@oltelectric.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $cmessage = $_REQUEST['message'];
@@ -28,5 +28,4 @@
 	$body .= "</body></html>";
 
     $send = mail($to, $subject, $body, $headers);
-	header("Location:https://oltelectric.com/");
 ?>
